@@ -9,4 +9,4 @@ Description: A constant database is a data structure created by Daniel J. Bernst
 Depends: bitops
 Suggests: methods
 URL: http://cdb.r-forge.r-project.org/
-License: GPL-3
+License: GPL (>= 2)
