@@ -1,10 +1,10 @@
 #################################################################
 # 
 # File:         read.cdb.R
-# Purpose:      Read a cdb data base
+# Purpose:      Read a cdb database
 #
 # Created:      20130416
-# Authors:      etm
+# Authors:      Emilio Torres Manzanera
 #
 # Modifications: 
 #
